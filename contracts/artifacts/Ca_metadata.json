@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/Calculator.sol": "Name"
+			"contracts/Calculator.sol": "Ca"
 		},
 		"evmVersion": "paris",
 		"libraries": {},
@@ -33,11 +33,11 @@
 	},
 	"sources": {
 		"contracts/Calculator.sol": {
-			"keccak256": "0xca3d9a6f62b2191cf14d644e75a375e821e410eb68a7404588bfd764359daa4e",
+			"keccak256": "0x560906318b11187d8bf6241f4602fef61bbad78d9fc4709275d5b38c37eb037a",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://fb0503306b0104f3abb75353d131c259d96524f9241b4d843e1c899729bbb356",
-				"dweb:/ipfs/QmXgEaf6VGn5Fx9MtmEWrimbbvrvS2dGkd9XdVxLCeyJdv"
+				"bzz-raw://319ee8a8a603b09412d6131a9f8ffbe11bba345e1308843a20be9d5955e273fd",
+				"dweb:/ipfs/QmWBHnEpDwqACiwFDqT7yQo4SDdCgekeHXYgKMHBpJFYo4"
 			]
 		}
 	},
